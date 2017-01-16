@@ -1,6 +1,5 @@
 library(shiny)
 library(leaflet)
-library(mapview)
 library(sp)
 shinyServer(function(input, output) {
   
